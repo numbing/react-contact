@@ -1,7 +1,7 @@
 for running this app clone the project :
 tun this on terminal :
 
-- git clone git@github.com:numbing/react-contact.git
+- 1)git clone git@github.com:numbing/react-contact.git
 - 2)cd contact-version1
 - 3)npm install
 - 4)npm start
