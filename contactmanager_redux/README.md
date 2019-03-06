@@ -1,5 +1,5 @@
 for running this app clone the project :
-tun this on terminal :
+and type this on terminal :
 
 - 1)git clone git@github.com:numbing/react-contact.git
 - 2)cd contactmanager_redux
